@@ -1,0 +1,15 @@
+#button {
+    display: block;
+}
+
+#text {
+    font-size: 16px;
+}
+
+#heading {
+    font-weight: bold;
+}
+
+#logo {
+    object-fit: cover;
+}
